@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chandu:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-31T13:44:42.399370417Z"
+    description: A Helm chart for Kubernetes
+    digest: 606ec4a357317a0214de5e35486e71bf2ecb491adbdff2ea1a5e4cf762e584b5
+    name: chandu
+    type: application
+    urls:
+    - chandu-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-31T13:44:42.398518545Z"
